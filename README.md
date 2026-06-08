@@ -1,6 +1,6 @@
 # Após a chegada da IA e dos computadores quânticos, qual a próxima tecnologia para cibersegurança?
 
-# Miniguia de Estudos sobre os novos desafios da cibersegurança
+# Miniguia de Estudos sobre os novos desafios da cibersegurança.
 
 [![Vídeo do NotebookLM](https://img.shields.io/badge/Assistir-Vídeo-blue)](https://notebooklm.google.com/notebook/8b88abd6-e8e1-4e2a-a988-56c99bc7ce22/artifact/a228b8d7-e1c1-4235-a091-efe3c37d624a?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_)
 
