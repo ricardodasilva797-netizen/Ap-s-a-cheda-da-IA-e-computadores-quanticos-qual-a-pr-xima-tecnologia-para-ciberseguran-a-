@@ -70,3 +70,51 @@ Soberania Digital	Requisito regulatório crescente que foca na redução da depe
 Harvest Now, Decrypt Later	Estratégia de coleta de dados cifrados para descriptografia futura via computação quântica.
 Homomorphic Encryption	Computação realizada sobre dados criptografados sem a necessidade de descriptografá-los primeiro.
 
+   
+3.📖 Glossário de Conceitos Essenciais
+Computadores Quânticos  
+Máquinas que utilizam princípios da mecânica quântica (como superposição e emaranhamento) para realizar cálculos muito mais rápidos do que computadores clássicos.
+
+Ameaça Quântica  
+Risco de que algoritmos de criptografia tradicionais (RSA, ECC) sejam quebrados por computadores quânticos usando o algoritmo de Shor.
+
+Harvest Now, Decrypt Later  
+Estratégia em que atacantes coletam dados criptografados hoje para decifrá-los futuramente, quando a tecnologia quântica estiver madura.
+
+Criptografia Pós-Quântica (PQC)  
+Novos algoritmos resistentes a ataques quânticos, como CRYSTALS-Kyber (encapsulamento de chaves) e CRYSTALS-Dilithium (assinaturas digitais).
+
+Agilidade Criptográfica  
+Capacidade de alternar rapidamente entre algoritmos de criptografia sem interromper sistemas, garantindo adaptação a novos padrões.
+
+AI-Driven Security Architecture  
+Arquiteturas de segurança que usam IA para detectar ameaças e responder automaticamente, muitas vezes integradas a sistemas SOAR.
+
+Aprendizado Federado  
+Técnica que treina modelos de IA localmente em diferentes dispositivos, compartilhando apenas parâmetros e protegendo a privacidade dos dados.
+
+Aprendizado por Reforço (RL)  
+Método em que agentes aprendem por tentativa e erro, usado para orquestrar escolhas adaptativas em redes seguras.
+
+QKD (Quantum Key Distribution)  
+Distribuição de chaves baseada em princípios quânticos, tornando qualquer tentativa de interceptação detectável.
+
+Shadow AI  
+Uso de ferramentas de IA não autorizadas por funcionários, que pode expor dados sensíveis sem controle da organização.
+
+No-code Malware  
+Malwares criados com auxílio de IA sem necessidade de programação, permitindo que pessoas sem conhecimento técnico desenvolvam ataques sofisticados.
+
+NISQ (Noisy Intermediate-Scale Quantum)  
+Era atual da computação quântica, caracterizada por máquinas com ruído e erros, exigindo técnicas de mitigação.
+
+Soberania Digital  
+Estratégia regulatória que busca reduzir dependência de hardware e software estrangeiros, fortalecendo a autonomia tecnológica.
+
+Homomorphic Encryption  
+Técnica que permite realizar cálculos diretamente sobre dados criptografados sem precisar descriptografá-los.
+
+4. Prompt utilizaveis:
+   qual o maior desafio para os profissionais de cibersegurança.
+   qual o a tecnologia que o profissional de ciberseguraça deve dominar nos proximos 5 anos ,liste 5 mais urgentes.
+   faça um lista e resumo dos principais problemas para cibersegurança com a chegada dos computadores quanticos e a IA.
