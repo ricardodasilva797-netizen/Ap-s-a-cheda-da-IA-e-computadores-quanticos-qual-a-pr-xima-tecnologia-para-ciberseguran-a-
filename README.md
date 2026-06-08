@@ -4,7 +4,6 @@
 
 [![Vídeo do NotebookLM](https://img.shields.io/badge/Assistir-Vídeo-blue)](https://notebooklm.google.com/notebook/8b88abd6-e8e1-4e2a-a988-56c99bc7ce22/artifact/a228b8d7-e1c1-4235-a091-efe3c37d624a?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_)
 
-https://notebooklm.google.com/notebook/8b88abd6-e8e1-4e2a-a988-56c99bc7ce22/artifact/a228b8d7-e1c1-4235-a091-efe3c37d624a?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_
 
 ## 📌 Contexto e Objetivos
 Este repositório foi criado como parte do desafio da DIO para explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.  
@@ -28,7 +27,7 @@ Este guia foi elaborado para profissionais que buscam se preparar para a transi�
 
 
 --------------------------------------------------------------------------------
-
+[![Guia de Estudo completo](https://img.shields.io/badge/📚-Guia_de_Estudo-green?style=for-the-badge)](https://notebooklm.google.com/notebook/8b88abd6-e8e1-4e2a-a988-56c99bc7ce22/artifact/4ac0ece8-ce74-40c4-b8b8-f0359d828e74?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_)
 
 1. Objetivos Principais de Estudo
 
@@ -71,6 +70,3 @@ Soberania Digital	Requisito regulatório crescente que foca na redução da depe
 Harvest Now, Decrypt Later	Estratégia de coleta de dados cifrados para descriptografia futura via computação quântica.
 Homomorphic Encryption	Computação realizada sobre dados criptografados sem a necessidade de descriptografá-los primeiro.
 
-
-
----
